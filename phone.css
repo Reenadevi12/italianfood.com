@@ -1,0 +1,66 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    
+
+}
+/* home section */
+#home{
+    height: 280px;
+
+}
+#home::before{
+    height: 490px;
+
+}
+#home p{
+    font-size:13px;
+}
+
+/* services section */
+#services{
+    flex-direction: column;
+}
+.services-container h1{
+    padding: 0px;
+    padding-top: 79px;
+}
+#service.box{
+   
+}
+/* Clients section */
+#client{
+    flex-wrap: wrap;
+
+}
+#client-section{
+
+}
+
+/* contact us section */
+
+#contact{
+
+}
+
+
+/* footer section */
+footer{
+
+}
+/* utility class */
+.h-primary{
+    font-size:1.8rem;
+    padding: 18px;
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.bat{
+    font-size: 13px;
+    padding: 4px 9px;
+}
